@@ -5,12 +5,11 @@ I'm **Sadik Sikder**, a Software Engineer focused on **TypeScript, Angular, Lara
 I also enjoy **game development, problem solving, and exploring new technologies**.
 
 <p align="center">
-  <a href="https://github.com/Sadik-Sikder">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sadik-Sikder&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  </a>
-  <a href="https://github.com/Sadik-Sikder">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadik-Sikder&layout=compact&hide_border=true&langs_count=8" height="165"/>
-  </a>
+  <img src="./metrics1.svg" />
+</p>
+
+<p align="center">
+  <img src="./metrics2.svg" />
 </p>
 
 <p align="center">
