@@ -1,52 +1,72 @@
-# Hi there 👋
-
-I'm **Sadik Sikder**, a Software Engineer focused on **TypeScript, Angular, Laravel, and modern web development**.
-
-I also enjoy **game development, problem solving, and exploring new technologies**.
+<h1 align="center">Hi, I'm Sadik Sikder 👋</h1>
 
 <p align="center">
-  <img src="./metrics1.svg" />
+  <b>Software Engineer</b> · TypeScript · Angular · Laravel · C++<br/>
+  I build web apps for a living and low-level systems for fun.
 </p>
 
 <p align="center">
-  <img src="./metrics2.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadik-Sikder&hide_border=true" />
+  <a href="mailto:sadiksikder0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://zecodeek-it.com/"><img alt="Zecodeek IT" src="https://img.shields.io/badge/Zecodeek%20IT-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <!-- Add LinkedIn if you have it:
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  -->
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🔭 About me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,php,laravel,nodejs,express,python,cpp,mysql,mongodb,git,github" />
-</p>
-
----
-
-### 🚀 What I Do
-
-* 💻 Build web applications and APIs
-* 🧩 Design scalable frontend & backend architecture
-* 🧠 Solve algorithmic and engineering problems
-* 🎮 Explore game development
-* 🌱 Continuously learn and experiment with new technologies
+- 💼 Building production web apps and APIs with **Angular, React, Laravel and Node.js**
+- ⚙️ Writing a **web browser engine from scratch in C++20** in my spare time
+- 🎮 Interested in game development, graphics and how things work under the hood
+- 🧠 Enjoy algorithmic problem solving
+- 📫 Reach me at **sadiksikder0@gmail.com**
 
 ---
 
-### 📫 Connect
+### ⭐ Featured projects
+
+#### [🌐 WTEngine](https://github.com/Sadik-Sikder/WTEngine)
+
+A web browser engine for Windows, written from scratch in C++20. It has its own HTML parser, CSS engine (flexbox, grid, tables, positioning), layout engine, DOM bindings and OpenGL renderer, with JavaScript via quickjs-ng. It renders Wikipedia, BBC News and DuckDuckGo.
+
+<img alt="C++" src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
+<img alt="Boost" src="https://img.shields.io/badge/Boost.Beast-F7901E?style=flat-square" />
+
+---
+
+### 🛠️ Tech stack
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,php,cpp,python" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite" />
+
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,mongodb,supabase" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+---
+
+### 📊 GitHub stats
 
 <p align="center">
-  <a href="mailto:sadiksikder0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sadiksikder0%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://zecodeek-it.com/">
-    <img src="https://img.shields.io/badge/Zecodeek%20IT-blue?style=for-the-badge" />
-  </a>
+  <img alt="GitHub metrics" src="./metrics1.svg" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadik-Sikder&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img alt="GitHub metrics" src="./metrics2.svg" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sadik-Sikder&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sadik-Sikder&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
