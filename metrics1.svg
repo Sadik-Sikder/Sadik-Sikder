@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
+<rect width="900" height="100" rx="12" fill="#0d1117"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<text x="112.5" y="50" fill="#f0f6fc" font-size="25" font-weight="bold">350+</text>
+<text x="112.5" y="73" fill="#8b949e" font-size="12">LeetCode Problems</text>
+<text x="337.5" y="50" fill="#f0f6fc" font-size="25" font-weight="bold">5+</text>
+<text x="337.5" y="73" fill="#8b949e" font-size="12">Core Languages</text>
+<text x="562.5" y="50" fill="#f0f6fc" font-size="25" font-weight="bold">Web</text>
+<text x="562.5" y="73" fill="#8b949e" font-size="12">Primary Focus</text>
+<text x="787.5" y="50" fill="#f0f6fc" font-size="25" font-weight="bold">Game Dev</text>
+<text x="787.5" y="73" fill="#8b949e" font-size="12">Side Interest</text>
+</g>
+</svg>
