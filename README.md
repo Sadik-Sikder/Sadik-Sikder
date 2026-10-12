@@ -46,21 +46,17 @@ A web browser engine for Windows, written from scratch in C++20. It has its own 
 <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite" />
 
 **Backend & data**<br/>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,mongodb" />
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
-### 📊 GitHub stats
+### 📊 Stats
 
 <p align="center">
   <img alt="GitHub metrics" src="./metrics1.svg" />
-</p>
-
-<p align="center">
-  <img alt="GitHub metrics" src="./metrics2.svg" />
 </p>
 
 <p align="center">
@@ -68,5 +64,5 @@ A web browser engine for Windows, written from scratch in C++20. It has its own 
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sadik-Sikder&label=Profile%20views&color=0e75b6&style=flat" />
+  <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=Sadik-Sikder&label=Profile%20views&countColor=%230e75b6" />
 </p>
